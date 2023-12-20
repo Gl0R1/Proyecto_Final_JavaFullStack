@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+main{
+  background-color: rgb(240, 252, 217);
+  box-sizing: 1;
+}
+
+
+.btn {
+  margin: 0px 0px 50px 0px;
+  
+}
+

@@ -1,0 +1,8 @@
+controlador\GestionOradorServlet.class
+com\mycompany\proyectofinal_java\JakartaRestConfiguration.class
+modelo\Orador.class
+util\ConexionDB.class
+com\mycompany\proyectofinal_java\resources\JakartaEE8Resource.class
+controlador\LoginServlet.class
+dao\OradoresDAO.class
+RegistroOrador.class
